@@ -14,12 +14,7 @@
   */
 void swapAB(int a, int b)
 {
-    a = a + b;
-    b = a - 2 b;   // a - b
-    a = (a - b) / 2; // (a - a + 2 b)/2
-    b = a + b;
     
-    printf
 }
 
 #endif /* SwapAB_h */
